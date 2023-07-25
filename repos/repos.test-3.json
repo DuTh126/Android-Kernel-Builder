@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "test-2",
+      "name": "test-3",
       "repo": "https://github.com/liquidprjkt/liquid_kernel_xiaomi_sm8250",
       "branch": "liquid",
       "defconfig": "vendor/cmi_defconfig"
