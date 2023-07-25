@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "cmi-KernelSU",
+      "name": "cmi-Kernel-SU",
       "repo": "https://github.com/DuTh126/android_kernel_xiaomi_sm8250",
       "branch": "miui",
       "defconfig": "cmi_defconfig"
